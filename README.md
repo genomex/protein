@@ -8,4 +8,4 @@ Centrality of a protein help us to understand the central role among the correla
 Correlation based model can be implemented to cluster the proteins
 Link prediction technique can be implemented to specific protein-pair to redefine and predict ill defined link or correlation
 
-![img]("./network_0.5.png")
+![img](network_0.5.png)
